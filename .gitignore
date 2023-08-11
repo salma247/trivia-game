@@ -1,0 +1,4 @@
+# ignore node modules and process env
+node_modules
+.env
+```
